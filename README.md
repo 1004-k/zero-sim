@@ -2,7 +2,7 @@
 
 This repository contains code and outputs for the simulation study in the manuscript:
 
-**“When Time-Zero Confirmation Changes the Target Population: Operating Characteristics of ATE and Overlap-Weighted Cox Models Under a Causal Null.”**
+**“When Time-Zero Confirmation Changes the Target Population: Operating Characteristics of ATE and Overlap-Weighted Cox Models Under a Causal Null: A Simulation Study”**
 
 ## Contents
 
@@ -31,4 +31,5 @@ Raw outputs go to `output/raw/`, logs to `output/logs/`.
 
 - The manuscript focuses on operating characteristics under a known causal null. 
 - Additional exploratory code (e.g., non-null scenarios) is provided for completeness but is not used in the main analyses.
+
 
